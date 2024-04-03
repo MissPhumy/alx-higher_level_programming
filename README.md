@@ -28,9 +28,3 @@ Simultaneously, I continued to reinforce and expand my skills in C and shell scr
 
 ## Author :
 * **[Prudence Radebe](https://twitter.com/missphumy)** <[MissPhumy](https://github.com/MissPhumy)>
-
-<p align="center">
-  <img src="http://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
-    alt="ALX Africa Logo"
-  >
-  </p>
